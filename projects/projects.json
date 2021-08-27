@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Data Visualization with Python",
         "desc": "Data visualization plays an essential role in the representation of both small and large scale data.So, Let's Try To Visualise it.",
-        "image": "https://raw.githubusercontent.com/Smukh123/Portfolio-Website/main/assests/images/projects/data-visual.png",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/data-visual.png",
         "links": {
             "view": "https://github.com/Smukh123/ShapeAI_Shinjon_mukherjee_2/blob/main/SHINJON_MUKHERJEE's_Project.ipynb",
             "code": "https://github.com/Smukh123/ShapeAI_Shinjon_mukherjee_2"
@@ -13,7 +13,7 @@
         "id": 2,
         "name": "Basic Banking Website",
         "desc": "It is a simple dynamic website where we can view all customers' details, transfer money and can view the transaction history",
-        "image": "https://raw.githubusercontent.com/Smukh123/Portfolio-Website/main/assests/images/projects/Banking-website.jpg",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/Banking-website.jpg",
         "links": {
             "view": "https://spectrum-bank.herokuapp.com/",
             "code": "https://github.com/Smukh123/Basic_Banking_System"
@@ -23,7 +23,7 @@
         "id": 3,
         "name": "Payment Gateway Integration",
         "desc": "It's a simple website where payment gateway is integrated.Once the payment is done and invoice will be generated that will contain amount.",
-        "image": "https://raw.githubusercontent.com/Smukh123/Portfolio-Website/main/assests/images/projects/payment-gateway.jpg",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/payment-gateway.jpg",
         "links": {
             "view": "https://smukh123.github.io/Payment-Gateway-Integration/",
             "code": "https://github.com/Smukh123/Payment-Gateway-Integration"
@@ -33,7 +33,7 @@
         "id": 4,
         "name": "Testing(Automation) using Selenium",
         "desc": "Use selenium to create a automating test case to test the website thesparksfoundation.sg",
-        "image": "https://raw.githubusercontent.com/Smukh123/Portfolio-Website/main/assests/images/projects/Automation.jpg",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/Automation.jpg",
         "links": {
             "view": "https://www.thesparksfoundationsingapore.org/",
             "code": "https://github.com/Smukh123/Testing_Automated"
@@ -43,7 +43,7 @@
         "id": 5,
         "name": "Fetching Weather Info in Python",
         "desc": "Program to fetch weather info of a city with a 3rd party API and recording the info in a text file.",
-        "image": "https://raw.githubusercontent.com/Smukh123/Portfolio-Website/main/assests/images/projects/weather-fetch.png",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/weather-fetch.png",
         "links": {
             "view": "https://github.com/Smukh123/ShapeAI_Python_CyberSecurity/blob/main/weather_text.txt",
             "code": "https://github.com/Smukh123/ShapeAI_Python_CyberSecurity"
@@ -53,7 +53,7 @@
         "id": 6,
         "name": "Netflix clone Homepage",
         "desc": "Simple Netflix Clone Homepage Built With HTML, CSS and JavaScript.The Objective Of This Project Is To Practising HTML, CSS and JavaScript.",
-        "image": "https://raw.githubusercontent.com/Smukh123/Portfolio-Website/main/assests/images/projects/netflix-clone-homepage.jpg",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/netflix-clone-homepage.jpg",
         "links": {
             "view": "https://smukh123.github.io/NetFlix-Clone-homepage/",
             "code": "https://github.com/Smukh123/NetFlix-Clone-homepage"
