@@ -1,62 +1,62 @@
 [ 
     {
         "id": 1,
-        "name": "Portfolio Website",
-        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/portfolio.PNG",
+        "name": "Data Visualization with Python",
+        "desc": "Data visualization plays an essential role in the representation of both small and large scale data.So, Let's Try To Visualise it.",
+        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/data-visual.png",
         "links": {
-            "view": "#",
-            "code": "#"
+            "view": "https://github.com/Smukh123/ShapeAI_Shinjon_mukherjee_2/blob/main/SHINJON_MUKHERJEE's_Project.ipynb",
+            "code": "https://github.com/Smukh123/ShapeAI_Shinjon_mukherjee_2"
         }
     },
     {
         "id": 2,
-        "name": "JavaScript Projects Website",
-        "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/jspro.PNG",
+        "name": "Basic Banking Website",
+        "desc": "It is a simple dynamic website where we can view all customers' details, transfer money and can view the transaction history",
+        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/Banking-website.jpg",
         "links": {
-            "view": "https://jigar-sable.github.io/JavaScript-Projects",
-            "code": "https://github.com/jigar-sable/JavaScript-Projects"
+            "view": "https://spectrum-bank.herokuapp.com/",
+            "code": "https://github.com/Smukh123/Basic_Banking_System"
         }
     },
     {
         "id": 3,
-        "name": "Webview App",
-        "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/webviewapp.PNG",
+        "name": "Payment Gateway Integration",
+        "desc": "It's a simple website where payment gateway is integrated.Once the payment is done and invoice will be generated that will contain amount.",
+        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/payment-gateway.jpg",
         "links": {
-            "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-            "code": "https://github.com/jigar-sable/Android-Webview"
+            "view": "https://smukh123.github.io/Payment-Gateway-Integration/",
+            "code": "https://github.com/Smukh123/Payment-Gateway-Integration"
         }
     },
     {
         "id": 4,
-        "name": "PHP Banking Website",
-        "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/tsfbank.png",
+        "name": "Testing(Automation) using Selenium",
+        "desc": "Use selenium to create a automating test case to test the website thesparksfoundation.sg",
+        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/Automation.jpg",
         "links": {
-            "view": "https://tsfbank.rf.gd",
-            "code": "https://github.com/jigar-sable/TSF-Bank"
+            "view": "https://www.thesparksfoundationsingapore.org/",
+            "code": "https://github.com/Smukh123/Testing_Automated"
         }
     },
     {
         "id": 5,
-        "name": "WebChat Website",
-        "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/webchat.PNG",
+        "name": "Fetching Weather Info in Python",
+        "desc": "Program to fetch weather info of a city with a 3rd party API and recording the info in a text file.",
+        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/weather-fetch.png",
         "links": {
-            "view": "https://github.com/jigar-sable/WebChat#webchat",
-            "code": "https://github.com/jigar-sable/WebChat"
+            "view": "https://github.com/Smukh123/ShapeAI_Python_CyberSecurity/blob/main/weather_text.txt",
+            "code": "https://github.com/Smukh123/ShapeAI_Python_CyberSecurity"
         }
     },
     {
         "id": 6,
-        "name": "Basic Banking App",
-        "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/basicbank.PNG",
+        "name": "Netflix clone Homepage",
+        "desc": "Simple Netflix Clone Homepage Built With HTML, CSS and JavaScript.The Objective Of This Project Is To Practising HTML, CSS and JavaScript.",
+        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/netflix-clone-homepage.jpg",
         "links": {
-            "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-            "code": "https://github.com/jigar-sable/Basic_Banking_App"
+            "view": "https://smukh123.github.io/NetFlix-Clone-homepage/",
+            "code": "https://github.com/Smukh123/NetFlix-Clone-homepage"
         }
     },
     {
