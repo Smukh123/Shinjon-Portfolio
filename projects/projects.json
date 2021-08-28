@@ -61,12 +61,12 @@
     },
     {
         "id": 7,
-        "name": "JavaScript Issue Tracker",
-        "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
         "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/issuetrack.PNG",
         "links": {
-            "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-            "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+            "view": "https://smukh123.github.io/Shinjon-Portfolio/",
+            "code": "https://github.com/Smukh123/Shinjon-Portfolio"
         }
     },
     {
