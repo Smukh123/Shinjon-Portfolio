@@ -73,7 +73,7 @@
         "id": 8,
         "name": "Prediction using Supervised ML",
         "desc": " It predict the percentage of an student based on the no. of study hours.",
-        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/prediction-ml.PNG",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/prediction-ml.png",
         "links": {
             "view": "https://github.com/Smukh123/Supervised_ML_Task_1/blob/main/TSF_TASK_1.ipynb",
             "code": "https://github.com/Smukh123/Supervised_ML_Task_1"
