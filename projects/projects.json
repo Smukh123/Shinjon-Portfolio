@@ -73,7 +73,7 @@
         "id": 8,
         "name": "Prediction using Supervised ML",
         "desc": " It predict the percentage of an student based on the no. of study hours.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/phppblform.PNG",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/prediction-ml.PNG",
         "links": {
             "view": "https://github.com/Smukh123/Supervised_ML_Task_1/blob/main/TSF_TASK_1.ipynb",
             "code": "https://github.com/Smukh123/Supervised_ML_Task_1"
@@ -83,7 +83,7 @@
         "id": 9,
         "name": "Computer Vision With Open CV",
         "desc": "OpenCV is a very famous library for computer vision and image processing tasks. It one of the most used pythons open-source library for computer vision and image data.",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/projects/linklist.PNG",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/projects/cv-computer vision.jpg",
         "links": {
             "view": "https://github.com/Smukh123/SHINJON_MUKHERJEE_OPEN_CV/blob/main/SHINJON_MUKHERJEE_OPEN_CV.ipynb",
             "code": "https://github.com/Smukh123/SHINJON_MUKHERJEE_OPEN_CV"
@@ -93,7 +93,7 @@
         "id": 10,
         "name": "Java Projects Listed Soon",
         "desc": "All major java, SQL, DBMS, GUI and scripts based projects will be listed soon.. Visit Again!",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/cmsoon.png",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/cmsoon.png",
         "links": {
             "view": "#",
             "code": "#"
@@ -103,7 +103,7 @@
         "id": 11,
         "name": "Android Projects Listed Soon",
         "desc": "All major android, SQLite, Firebase, APIs based projects/apps will be listed soon.. Visit Again!",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/android.jpg",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/android.jpg",
         "links": {
             "view": "#",
             "code": "#"
@@ -113,7 +113,7 @@
         "id": 12,
         "name": "React Projects Listed Soon",
         "desc": "All major reactJS, redux, API, mongoDB based projects will be listed soon.. Visit Again!",
-        "image": "https://raw.githubusercontent.com/jigar-sable/Portfolio-Website/main/assests/images/react.png",
+        "image": "https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/react.png",
         "links": {
             "view": "#",
             "code": "#"
