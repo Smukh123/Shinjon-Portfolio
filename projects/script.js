@@ -20,12 +20,12 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Projects | Portfolio Jigar Sable";
-        $("#favicon").attr("href","/assests/images/favicon.png");
+        document.title = "Projects | Portfolio Shinjon Mukherjee";
+        $("#favicon").attr("href","./assests/images/favicon.png");
     }
     else {
         document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assests/images/favhand.png");
+        $("#favicon").attr("href","./assests/images/favhand.png");
     }
 });
 
