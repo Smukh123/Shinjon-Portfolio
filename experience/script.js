@@ -64,11 +64,11 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Jigar Sable";
-        $("#favicon").attr("href","/assests/images/favicon.png");
+        document.title = "Experience | Portfolio Shinjon Mukherjee";
+        $("#favicon").attr("href","https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/favicon.png");
     }
     else {
         document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assests/images/favhand.png");
+        $("#favicon").attr("href","https://raw.githubusercontent.com/Smukh123/Shinjon-Portfolio/main/assests/images/favhand.png");
     }
 });
